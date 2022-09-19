@@ -2,3 +2,4 @@ from os import system
 system("cls")
 memóriakezelés, minden infó változóbban eltárolva
 python - típusfüggetlen => dinamikus memóriakezelés
+hesznált beépített típusok: str, int, float, list, bool
